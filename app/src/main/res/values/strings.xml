@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sample Assignment</string>
+    <string name="Splash_header">Splash Screen</string>
+    <string name="view_pager_header">Swipe Right To View Pages</string>
+    <string name="completed">Completed</string>
+    <string name="canceled">Canceled</string>
+    <string name="Screen_slide">Press it</string>
+    <string name="past">Past</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="pending">Pending</string>
+    <string name="accpeted">Accepted</string>
+</resources>
